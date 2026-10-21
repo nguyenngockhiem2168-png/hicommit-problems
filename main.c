@@ -8,5 +8,6 @@ int main() {
   max=b 
   if(c>max);
   max=c
+printf("%d", max) 
   return 0;
 }
