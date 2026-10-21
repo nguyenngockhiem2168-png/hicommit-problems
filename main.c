@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
   int a;
-  scanf("/%d" &n);
+  scanf("/%d" &a);
   return 0;
 }
