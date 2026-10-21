@@ -2,16 +2,16 @@
 
 int main() {
     int t;
-    if (scanf("%lf", &t)==1){
+    scanf("%d", &t);{
       if (t < 15){
-        printf("LANH\n");
+        printf("LANH");
     } else if (t < 25) {
-        printf("MAT\n");
+        printf("MAT");
     } else if (t < 35){
-        printf("NONG\n");
+        printf("NONG");
     } else {
-        printf ("RAT_NONG\n");  
-    } 
+        printf ("RAT_NONG");  
   }
   return 0;
+}
 }
