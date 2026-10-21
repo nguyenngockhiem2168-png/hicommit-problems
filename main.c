@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 int main() {
-  int khoangcach,giaitri;
-    scanf("%d %d",&khoangcach, &giaitri);
-    if(khoangcach <= 0 || giaitri <= 0);{
+  int KHOANGCACH,GIATRI;
+    scanf("%d %d", &KHOANGCACH, &GIATRI)
+    if(KHOANGCACH <=0 || GIATRI <= 0){
       printf("IWALID");
     }
-    if (giaitri >=5000 && khoangcach);
+    if (GIATRI >= 5000 && KHOANGCACH > 0) {
+    }
   return 0;
 }
