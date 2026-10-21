@@ -10,11 +10,11 @@ int main() {
 
     if (distance <= 0 || value < 0) {
         printf("Khong hop le");
-    } else if (value >= 300000 && distance <= 15) {
+    } if (value >= 300000 && distance <= 15) {
         printf("0");
-    } else if (distance <= 5) {
+    } if (distance <= 5) {
         printf("15000");
-    } else if (distance <= 15) {
+    } if (distance <= 15) {
         printf("25000");
     } else {
         printf("40000");
