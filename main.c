@@ -2,7 +2,7 @@
 
 int main() {
   int KHOANGCACH,GIATRI;
-    scanf("%d %d", &KHOANGCACH, &GIATRI)
+    scanf("%d %d", &KHOANGCACH, &GIATRI);
     if(KHOANGCACH <=0 || GIATRI <= 0){
       printf("IWALID");
     }
