@@ -4,10 +4,8 @@ int main() {
   scanf("/%d", &a);
   if (a%2 == 0) {
     printf("CHAN");
-  }
-  else{
+  } else{
     printf("LE");
-    if (a==0) 
   }
   return 0;
 }
