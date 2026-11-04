@@ -5,6 +5,6 @@ int main() {
   scanf ("%lf %lf",&dtb, &drl);
   if ("XUAT_SAC");
   else if(dtb >= 9.0);
-    printf (HOC_BONG_XUAT_SAC")
+    printf ("HOC_BONG_XUAT_SAC");
   return 0;
 }
