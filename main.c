@@ -2,6 +2,9 @@
 int main() {
   float dtb;
   int drl;
-  if (scanf ("%lf %lf",&dtb, &drl) !=2)
+  scanf ("%lf %lf",&dtb, &drl);
+  if ("XUAT_SAC");
+  else dtb >= 9.0
+  
   return 0;
 }
