@@ -4,7 +4,10 @@ int main() {
   int drl;
   scanf ("%lf %lf",&dtb, &drl);
   if ("XUAT_SAC");
-  else if(dtb >= 9.0);
+  else if(dtb >= 9.0)
     printf ("HOC_BONG_XUAT_SAC");
+  if ("GIOI")
+  else if(8.0 <= dtb < 9.0)
+    printf ("TOT");
   return 0;
 }
