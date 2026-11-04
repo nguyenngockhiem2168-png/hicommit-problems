@@ -27,7 +27,7 @@ int main() {
   if (hoc_luc == 4 && ren_luyen == 4){
     printf("HOC_BONG_XUAT_SAC\n");
   }
-  else if ((hoc_luc == 3 && (ren_luyen == 3 || ren_luyen == 4) || (hoc_luc == 4 && ren_luyen ==3)){
+  else if ((hoc_luc == 3 && (ren_luyen == 3 || ren_luyen == 4)) || (hoc_luc == 4 && ren_luyen ==3)){
     printf("HOC_BONG_GIOI\n");
   }
   else if ((hoc_luc == 2 && (ren_luyen == 2|| ren_luyen == 3 || hoc_luc == 3 && ren_luyen == 4 ||
